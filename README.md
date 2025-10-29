@@ -36,6 +36,8 @@ Setup Instructions
 
 git clone [<repository-url>](https://github.com/harsh-patil123/Magic-Email-Classifier.git)
 cd magic-email-classifier
+
+
 npm install
 
 2. Google OAuth Setup
