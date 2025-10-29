@@ -12,6 +12,9 @@ Features
 - 🎨 Modern TailwindCSS UI with two-pane layout
 - 📱 Responsive design
 
+- <img width="1657" height="839" alt="image" src="https://github.com/user-attachments/assets/84637a79-b747-4195-8b15-68ef7b8fdfa6" />
+
+
 Tech Stack
 
 - Framework: Next.js 14 (App Router) with TypeScript
